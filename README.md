@@ -1,7 +1,5 @@
 # CS-230-Operating-Platforms
-Repository for SNHU Course CS-230-10283-M01 Operating Platforms
-
-Once you have submitted your software design document, update the README file in your repository and include your answers to each of the questions below. You could include the questions and write a few sentences in response to each one, or you could write a paragraph or two weaving together all of your answers.
+## Repository for SNHU Course CS-230-10283-M01 Operating Platforms
 
 **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
 The Social Media company *Chat Away* has requested that they want to have developed a web-based version of their game *Draw It or Lose It*. The game already exists on Android, but they would like for it to suport multiple platforms.
